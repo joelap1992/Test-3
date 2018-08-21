@@ -1,4 +1,5 @@
 # Lista de jogos
 
-# [jogos preferidos 1]
-# [jogos preferidos 2]
+* Good of War
+* Call Of Duty
+* Country Strike GO
